@@ -1,0 +1,8 @@
+{
+  "name": "@world/relay",
+  "version": "1.0.0",
+  "dependencies": {
+    "react-relay": "11.0.2"
+  },
+  "main": "src/index.tsx"
+}
