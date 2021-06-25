@@ -111,7 +111,8 @@
     "start": "concurrently --kill-others \"yarn workspace @world/web start\" \"yarn workspace @world/server start\"",
     "update-schema": "yarn w ./packages/server/scripts/updateSchema.ts",
     "w": "yarn b webpackx.ts",
-    "web": "yarn workspace @world/web start"
+    "web": "yarn workspace @world/web start",
+    "app-expo": "yarn workspace @world/app-expo start"
   },
   "workspaces": {
     "packages": [
