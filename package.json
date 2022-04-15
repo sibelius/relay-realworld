@@ -25,7 +25,7 @@
     "@types/mongoose": "^5.11.58",
     "@types/node": "^15.9.0",
     "@types/react": "^17.0.0",
-    "@types/react-dom": "^17.0.0",
+    "@types/react-dom": "^18.0.1",
     "@types/react-infinite-scroller": "^1.2.1",
     "@types/react-relay": "11.0.1",
     "@types/react-router-config": "^5.0.1",
